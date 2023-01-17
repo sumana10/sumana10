@@ -44,7 +44,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumana10&show_icons=true&locale=en&layout=compact" alt="sumana10" /></td></tr></table> -->
 
 ## GitHub Stats:
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" alt="sumana10" /></p>
+[![Sumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumana10)](https://github.com/sumana10/github-readme-stats)
 
 
 
