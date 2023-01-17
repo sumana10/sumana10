@@ -46,8 +46,8 @@
 ## GitHub Stats:
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" alt="sumana10" /></p>
 
-<hr/>
 
-### 🐍 Watch Snake eating my contribution
+
+<!-- ### 🐍 Watch Snake eating my contribution -->
 
 ![snake.svg](https://github.com/sumana10/sumana10/blob/b9fa6e2b02339fbd9ec0e1756758208fcfd0aeb5/snake.svg)
