@@ -42,13 +42,11 @@
 <div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sumana10&show_icons=true&locale=en" alt="sumana10" /></div>
 </td><td valign="top" width="50%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumana10&show_icons=true&locale=en&layout=compact" alt="sumana10" /></td></tr></table> -->
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sumana10 GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" />
+## GitHub Stats:
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" alt="sumana10" /></p>
 
-</details>
-
+<hr/>
 
 ### 🐍 Watch Snake eating my contribution
 
