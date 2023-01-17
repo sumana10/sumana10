@@ -1,6 +1,6 @@
-# Hi there, I'm [Sumana](https://github.com/sumana10)👋
+<h1 align="center">Hi there, I'm Sumana👋</h1>
 
-## I am a Developer and Content Creator 👩‍💻✍
+<h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
