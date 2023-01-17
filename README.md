@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" />
+  <img align="left" alt="Sumana10 GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sumana10" />
 
 </details>
 
