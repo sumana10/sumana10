@@ -37,15 +37,8 @@
 [![Others](https://skillicons.dev/icons?i=wordpress,jest,docker,git,github,vscode,vite&theme=light)](https://skillicons.dev)
 
 
-<!-- 
-<table><tr><td valign="top" width="50%">
-<div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sumana10&show_icons=true&locale=en" alt="sumana10" /></div>
-</td><td valign="top" width="50%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumana10&show_icons=true&locale=en&layout=compact" alt="sumana10" /></td></tr></table> -->
-
 ## GitHub Stats:
-[![Sumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumana10)](https://github.com/sumana10/github-readme-stats)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumana10&show_icons=true&locale=en" alt="sumana10" />
 
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
