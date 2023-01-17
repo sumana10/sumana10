@@ -20,9 +20,10 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/sumana-das" target="blank"><img align="center" src="./img/linked-in-alt.svg" alt="sumana-das" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sumana" target="blank"><img align="center" src="./img/stack-overflow.svg" alt="sumana" height="30" width="40" /></a>
-<a href="https://discord.gg/Sumana#6669" target="blank"><img align="center" src="./img/discord.svg" alt="Sumana#6669" height="30" width="40" /></a>
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/sumana10)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana-das)
+[![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/sumana)
+
 
 
 ## Languages and Tools:
