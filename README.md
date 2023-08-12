@@ -32,9 +32,9 @@
 ### Frontend Development
 [![Frontend Development](https://skillicons.dev/icons?i=react,bootstrap,html,css,redux,webpack,tailwind,mui,figma,styledcomponents&theme=light)](https://skillicons.dev)
 ### Backend Development
-[![Backend Development](https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,firebase,heroku,netlify&theme=light)](https://skillicons.dev)
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,ipfs,graphql,firebase,heroku,netlify&theme=light)](https://skillicons.dev)
 ### Others
-[![Others](https://skillicons.dev/icons?i=wordpress,jest,docker,git,github,vscode,vite&theme=light)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=wordpress,jest,docker,git,github,vscode,replit,postman,vite&theme=light)](https://skillicons.dev)
 
 
 ## GitHub Stats:
