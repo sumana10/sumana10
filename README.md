@@ -30,7 +30,7 @@
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,rust,solidity&theme=light)](https://skillicons.dev)
 ### Frontend Development
-[![Frontend Development](https://skillicons.dev/icons?i=react,bootstrap,html,css,redux,webpack,tailwind,mui,figma,styledcomponents&theme=light)](https://skillicons.dev)
+[![Frontend Development](https://skillicons.dev/icons?i=react,bootstrap,html,css,redux,tailwind,mui,figma,styledcomponents&theme=light)](https://skillicons.dev)
 ### Backend Development
 [![Backend Development](https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,ipfs,graphql,firebase,heroku,netlify&theme=light)](https://skillicons.dev)
 ### Others
