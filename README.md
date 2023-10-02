@@ -43,4 +43,4 @@
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
 
-![snake.svg](https://github.com/sumana10/sumana10/blob/b9fa6e2b02339fbd9ec0e1756758208fcfd0aeb5/snake.svg)
+<!--![snake.svg](https://github.com/sumana10/sumana10/blob/b9fa6e2b02339fbd9ec0e1756758208fcfd0aeb5/snake.svg)-->
