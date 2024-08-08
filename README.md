@@ -21,7 +21,7 @@
 ### Connect with me:
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/sumana10)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana-das)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sumana-li)
 [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/sumana)
 
 
