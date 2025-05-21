@@ -1,9 +1,20 @@
-<h1 align="center">Hi there, I'm Sumana👋</h1>
-<h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
+<h1 align="left">Hi there, I'm Sumana👋</h1>
+<h3 align="left">Blockchain Developer & Tech Content Creator 👩‍💻✍️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumana10&label=Profile%20views&color=0e75b6&style=flat" alt="sumana10" /> </p>
 
-<img src="https://utfs.io/f/A8JZzw0Laf9jUMMsnIG369X1CkqrpnAQysmBRW7gVDM5JFLE"/>
+<div align="left">
+  
+ 🔭 I’m currently building **blockchain-based tools and dApps**
 
+ 🌱 I’m exploring **low-level blockchain mechanics and protocol development**
+
+ 💬 I love talking about **React, Solidity, Smart Contracts, and Blockchain Protocols**
+
+ 📫 How to reach me **sumana.developer@gmail.com**
+
+ ⚡ Fun fact **I am a big fan of Cute Doodling🎨🐣**
+  
+</div>
 
 ### Connect with me:
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/sumana10)
